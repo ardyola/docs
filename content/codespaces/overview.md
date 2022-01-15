@@ -1,21 +1,17 @@
 ---
-title: GitHub Codespaces overview
-shortTitle: Overview
-product: '{% data reusables.gated-features.codespaces %}'
-intro: 'This guide introduces {% data variables.product.prodname_codespaces %} and provides details on how it works and how to use it.'
-allowTitleToDifferFromFilename: true
-redirect_from:
-  - /codespaces/codespaces-reference/about-codespaces
-  - /github/developing-online-with-github-codespaces/about-github-codespaces
-  - /github/developing-online-with-codespaces/about-codespaces
-  - /codespaces/getting-started-with-codespaces/about-codespaces
-  - /codespaces/about-codespaces
-versions:
-  fpt: '*'
-  ghec: '*'
-type: quick_start
-topics:
-  - Codespaces
+Nama Penerima: Kacong
+Alamat Penerima : Sampang
+Barang: Diesel Kubota RD140
+Dari: PAMEKASAN
+Tujuan: SAMPANG
+Resi:
+  PMK16012022
+Paket:
+  Expres: ✅
+  Reguler:
+Exspedisi: JNE express
+Estimasi:
+  - 1 sampai 2 hari
 ---
 
 ## What is a codespace?
